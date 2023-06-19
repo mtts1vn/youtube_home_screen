@@ -11,8 +11,7 @@ class VideoBox extends StatelessWidget {
           Container(
               child: Column(
             children: [
-              Image.network(
-                  'https://i.ytimg.com/vi/J72eBE4LLGo/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIHBACGAYgATgB&rs=AOn4CLDzr9nkufKbqeXvQtiY5dcryvO4VA'),
+              Image.asset('assets/images/thumb.jpg'),
             ],
           )),
           Row(
