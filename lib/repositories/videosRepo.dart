@@ -1,0 +1,38 @@
+import 'package:youtube_home/widgets/videoContainer.dart';
+
+class VideoRepositorie {
+  static List<VideoBox> videos = [
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+    VideoBox(),
+  ];
+}
